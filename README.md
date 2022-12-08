@@ -1,7 +1,9 @@
 # Drum Up SUPPORT: Systematic Analysis of Image-Schematic Conceptual Metaphors
 
 ## Reference
-forthcoming 
+Wachowiak, L., Gromann, D. & Xu, C. (2022) Drum Up SUPPORT: Systematic Analysis of Image-Schematic Conceptual Metaphors. In EMNLP FigLang Workshop.
+
+PDF (forthcoming)
 
 ## Our metaphor detection model used in the paper
 https://github.com/lwachowiak/Multilingual-Metaphor-Detection
