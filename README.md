@@ -5,6 +5,8 @@ Wachowiak, L., Gromann, D. & Xu, C. (2022) Drum Up SUPPORT: Systematic Analysis 
 
 PDF (forthcoming)
 
+[Presentation Recording](https://youtu.be/JiAbZnBpapE)
+
 ## Our metaphor detection model used in the paper
 https://github.com/lwachowiak/Multilingual-Metaphor-Detection
 
