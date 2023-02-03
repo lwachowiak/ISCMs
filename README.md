@@ -3,7 +3,7 @@
 ## Reference
 Wachowiak, L., Gromann, D. & Xu, C. (2022) Drum Up SUPPORT: Systematic Analysis of Image-Schematic Conceptual Metaphors. In EMNLP FigLang Workshop.
 
-PDF (forthcoming)
+[PDF](https://aclanthology.org/2022.flp-1.7/)
 
 [Presentation Recording](https://youtu.be/JiAbZnBpapE)
 
